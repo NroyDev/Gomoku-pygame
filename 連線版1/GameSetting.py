@@ -1,0 +1,7 @@
+#========>常數<========
+WIN_WIDTH_HEIGHT = 750
+WIN_BACKGROUND_COLOR = (206, 148, 66)
+FPS = 60
+
+WAY = 19    #棋盤幾路
+UNIT_LENGTH = WIN_WIDTH_HEIGHT / (WAY+1)

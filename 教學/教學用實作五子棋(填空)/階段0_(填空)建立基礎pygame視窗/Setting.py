@@ -1,0 +1,4 @@
+#========>常數<========
+WIN_WIDTH_HEIGHT = 750
+WIN_BACKGROUND_COLOR = (206, 148, 66)
+FPS = 60
